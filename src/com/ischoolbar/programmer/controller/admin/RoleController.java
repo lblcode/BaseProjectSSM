@@ -20,7 +20,7 @@ import com.ischoolbar.programmer.page.admin.Page;
 import com.ischoolbar.programmer.service.admin.RoleService;
 
 /** 角色role控制器
-* @author  作者: lubingliang: 
+* @author  作者: lubingliang
 * @version 创建时间：2020年3月23日 下午8:25:39 
 */
 @RequestMapping("/admin/role")
