@@ -24,7 +24,7 @@ import com.ischoolbar.programmer.page.admin.Page;
 import com.ischoolbar.programmer.service.admin.MenuService;
 
 /**
- * 菜单管理控制器
+ * 菜单管理控制器11
  * @author LBL
  * 
  */
